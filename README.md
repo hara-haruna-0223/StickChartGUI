@@ -1,13 +1,18 @@
 # StockChartGUI
 
+
+
 # 概要
 日本株価のチャートを取得できる、デスクトップアプリです。<br>
 MAKUMAKU様で、公開されているソースコードを元に、レイアウトを変更しただけのアプリになります。
 下記の出典元に、リンクを載せております。
 
+
 # 仕様
 Pythonのtkinterで作成<br>
-「Stooq」から、日本株価のデータを取得
+「Stooq」様から、日本株価のデータを取得<br>
+「日本取引所グループ」様から、銘柄名を取得
+
 
 # 使い方
 空欄に、半角数字で入力する。
@@ -23,6 +28,9 @@ Pythonのtkinterで作成<br>
 
 # 出典元
 MAKUMAKU様<br>
-(https://torimakujoukyou.com/python-tkinter-stockchartgui/)
+(https://torimakujoukyou.com/python-tkinter-stockchartgui/)<br>
 Stooq様<br>
-(https://stooq.com/)
+(https://stooq.com/)<br>
+日本取引所グループ様<br>
+(https://www.jpx.co.jp/markets/statistics-equities/misc/)
+
